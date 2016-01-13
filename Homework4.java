@@ -1,7 +1,7 @@
 /**
  * Created by DsergiyenkoN on 21.12.2015.
  */
-public class homework4 {
+public class Homework4 {
 
     public static void main (String[] agrs) {
 
