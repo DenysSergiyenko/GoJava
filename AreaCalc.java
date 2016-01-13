@@ -3,7 +3,7 @@
  */
 public class AreaCalc {
     static double circleAreaCalc (double r ) {
-        return 3.141592654*r*r;
+        return Math.PI*r*r;
     }
     static double triangleAreaCalc (double side1, double side2, double side3) {
         double p=side1+side2+side3;
